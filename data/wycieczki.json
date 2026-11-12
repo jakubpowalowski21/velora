@@ -1,0 +1,2390 @@
+[
+  {
+    "id": 1,
+    "slug": "rzymskie-dolce-vita",
+    "nazwa": "Rzymskie dolce vita",
+    "kraj": "Włochy",
+    "miasto": "Rzym",
+    "kontynent": "Europa",
+    "kategoria": "Kultura",
+    "czasDni": 7,
+    "cenaPLN": 3290,
+    "ocena": 4.6,
+    "liczbaOpinii": 32,
+    "limitMiejsc": 10,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Rzym i najciekawsze miejsca regionu podczas 7-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "7 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/rzymskie-dolce-vita.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/rzym-travel"
+  },
+  {
+    "id": 2,
+    "slug": "winnice-i-miasteczka-toskanii",
+    "nazwa": "Winnice i miasteczka Toskanii",
+    "kraj": "Włochy",
+    "miasto": "Toskania",
+    "kontynent": "Europa",
+    "kategoria": "Relaks",
+    "czasDni": 6,
+    "cenaPLN": 3690,
+    "ocena": 4.7,
+    "liczbaOpinii": 39,
+    "limitMiejsc": 12,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Toskania i najciekawsze miejsca regionu podczas 6-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "6 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/winnice-i-miasteczka-toskanii.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/toskania-travel"
+  },
+  {
+    "id": 3,
+    "slug": "paryz-poza-pocztowka",
+    "nazwa": "Paryż poza pocztówką",
+    "kraj": "Francja",
+    "miasto": "Paryż",
+    "kontynent": "Europa",
+    "kategoria": "City break",
+    "czasDni": 5,
+    "cenaPLN": 2890,
+    "ocena": 4.8,
+    "liczbaOpinii": 46,
+    "limitMiejsc": 14,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Paryż i najciekawsze miejsca regionu podczas 5-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "5 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/paryz-poza-pocztowka.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/paryż-travel"
+  },
+  {
+    "id": 4,
+    "slug": "kolory-prowansji",
+    "nazwa": "Kolory Prowansji",
+    "kraj": "Francja",
+    "miasto": "Prowansja",
+    "kontynent": "Europa",
+    "kategoria": "Relaks",
+    "czasDni": 7,
+    "cenaPLN": 4190,
+    "ocena": 4.9,
+    "liczbaOpinii": 53,
+    "limitMiejsc": 16,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Prowansja i najciekawsze miejsca regionu podczas 7-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "7 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/kolory-prowansji.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/prowansja-travel"
+  },
+  {
+    "id": 5,
+    "slug": "barcelona-pelna-sztuki",
+    "nazwa": "Barcelona pełna sztuki",
+    "kraj": "Hiszpania",
+    "miasto": "Barcelona",
+    "kontynent": "Europa",
+    "kategoria": "City break",
+    "czasDni": 5,
+    "cenaPLN": 2690,
+    "ocena": 5.0,
+    "liczbaOpinii": 60,
+    "limitMiejsc": 18,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Barcelona i najciekawsze miejsca regionu podczas 5-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "5 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/barcelona-pelna-sztuki.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/barcelona-travel"
+  },
+  {
+    "id": 6,
+    "slug": "lizbona-i-wybrzeze-atlantyku",
+    "nazwa": "Lizbona i wybrzeże Atlantyku",
+    "kraj": "Portugalia",
+    "miasto": "Lizbona",
+    "kontynent": "Europa",
+    "kategoria": "Kultura",
+    "czasDni": 7,
+    "cenaPLN": 3490,
+    "ocena": 4.5,
+    "liczbaOpinii": 67,
+    "limitMiejsc": 20,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Lizbona i najciekawsze miejsca regionu podczas 7-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "7 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/lizbona-i-wybrzeze-atlantyku.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/lizbona-travel"
+  },
+  {
+    "id": 7,
+    "slug": "biale-domy-santorini",
+    "nazwa": "Białe domy Santorini",
+    "kraj": "Grecja",
+    "miasto": "Santorini",
+    "kontynent": "Europa",
+    "kategoria": "Relaks",
+    "czasDni": 6,
+    "cenaPLN": 4290,
+    "ocena": 4.6,
+    "liczbaOpinii": 74,
+    "limitMiejsc": 22,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Santorini i najciekawsze miejsca regionu podczas 6-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "6 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/biale-domy-santorini.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/santorini-travel"
+  },
+  {
+    "id": 8,
+    "slug": "kreta-od-kuchni",
+    "nazwa": "Kreta od kuchni",
+    "kraj": "Grecja",
+    "miasto": "Kreta",
+    "kontynent": "Europa",
+    "kategoria": "Kulinarna",
+    "czasDni": 8,
+    "cenaPLN": 3990,
+    "ocena": 4.7,
+    "liczbaOpinii": 81,
+    "limitMiejsc": 24,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Kreta i najciekawsze miejsca regionu podczas 8-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "8 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/kreta-od-kuchni.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/kreta-travel"
+  },
+  {
+    "id": 9,
+    "slug": "islandia-ogien-i-lod",
+    "nazwa": "Islandia: ogień i lód",
+    "kraj": "Islandia",
+    "miasto": "Reykjavík",
+    "kontynent": "Europa",
+    "kategoria": "Przygoda",
+    "czasDni": 8,
+    "cenaPLN": 6990,
+    "ocena": 4.8,
+    "liczbaOpinii": 88,
+    "limitMiejsc": 8,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Reykjavík i najciekawsze miejsca regionu podczas 8-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "8 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/islandia-ogien-i-lod.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/reykjavík-travel"
+  },
+  {
+    "id": 10,
+    "slug": "lofoty-pod-polnocnym-niebem",
+    "nazwa": "Lofoty pod północnym niebem",
+    "kraj": "Norwegia",
+    "miasto": "Lofoty",
+    "kontynent": "Europa",
+    "kategoria": "Natura",
+    "czasDni": 7,
+    "cenaPLN": 6490,
+    "ocena": 4.9,
+    "liczbaOpinii": 95,
+    "limitMiejsc": 10,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Lofoty i najciekawsze miejsca regionu podczas 7-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "7 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/lofoty-pod-polnocnym-niebem.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/lofoty-travel"
+  },
+  {
+    "id": 11,
+    "slug": "alpejskie-szlaki",
+    "nazwa": "Alpejskie szlaki",
+    "kraj": "Szwajcaria",
+    "miasto": "Zermatt",
+    "kontynent": "Europa",
+    "kategoria": "Aktywna",
+    "czasDni": 6,
+    "cenaPLN": 5690,
+    "ocena": 5.0,
+    "liczbaOpinii": 102,
+    "limitMiejsc": 12,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Zermatt i najciekawsze miejsca regionu podczas 6-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "6 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/alpejskie-szlaki.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/zermatt-travel"
+  },
+  {
+    "id": 12,
+    "slug": "dalmatynska-przygoda",
+    "nazwa": "Dalmatyńska przygoda",
+    "kraj": "Chorwacja",
+    "miasto": "Dubrownik",
+    "kontynent": "Europa",
+    "kategoria": "Relaks",
+    "czasDni": 7,
+    "cenaPLN": 3590,
+    "ocena": 4.5,
+    "liczbaOpinii": 109,
+    "limitMiejsc": 14,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Dubrownik i najciekawsze miejsca regionu podczas 7-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "7 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/dalmatynska-przygoda.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/dubrownik-travel"
+  },
+  {
+    "id": 13,
+    "slug": "stambul-dwoch-kontynentow",
+    "nazwa": "Stambuł dwóch kontynentów",
+    "kraj": "Turcja",
+    "miasto": "Stambuł",
+    "kontynent": "Europa",
+    "kategoria": "Kultura",
+    "czasDni": 5,
+    "cenaPLN": 2790,
+    "ocena": 4.6,
+    "liczbaOpinii": 116,
+    "limitMiejsc": 16,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Stambuł i najciekawsze miejsca regionu podczas 5-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "5 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/stambul-dwoch-kontynentow.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/stambuł-travel"
+  },
+  {
+    "id": 14,
+    "slug": "marokanskie-medyny-i-pustynia",
+    "nazwa": "Marokańskie medyny i pustynia",
+    "kraj": "Maroko",
+    "miasto": "Marrakesz",
+    "kontynent": "Afryka",
+    "kategoria": "Przygoda",
+    "czasDni": 8,
+    "cenaPLN": 4890,
+    "ocena": 4.7,
+    "liczbaOpinii": 123,
+    "limitMiejsc": 18,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Marrakesz i najciekawsze miejsca regionu podczas 8-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "8 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/marokanskie-medyny-i-pustynia.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/marrakesz-travel"
+  },
+  {
+    "id": 15,
+    "slug": "sladami-faraonow",
+    "nazwa": "Śladami faraonów",
+    "kraj": "Egipt",
+    "miasto": "Kair",
+    "kontynent": "Afryka",
+    "kategoria": "Historia",
+    "czasDni": 8,
+    "cenaPLN": 4490,
+    "ocena": 4.8,
+    "liczbaOpinii": 130,
+    "limitMiejsc": 20,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Kair i najciekawsze miejsca regionu podczas 8-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "8 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/sladami-faraonow.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/kair-travel"
+  },
+  {
+    "id": 16,
+    "slug": "safari-w-tanzanii",
+    "nazwa": "Safari w Tanzanii",
+    "kraj": "Tanzania",
+    "miasto": "Arusza",
+    "kontynent": "Afryka",
+    "kategoria": "Natura",
+    "czasDni": 9,
+    "cenaPLN": 10990,
+    "ocena": 4.9,
+    "liczbaOpinii": 137,
+    "limitMiejsc": 22,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Arusza i najciekawsze miejsca regionu podczas 9-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "9 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/safari-w-tanzanii.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/arusza-travel"
+  },
+  {
+    "id": 17,
+    "slug": "kapsztad-i-garden-route",
+    "nazwa": "Kapsztad i Garden Route",
+    "kraj": "RPA",
+    "miasto": "Kapsztad",
+    "kontynent": "Afryka",
+    "kategoria": "Natura",
+    "czasDni": 10,
+    "cenaPLN": 8990,
+    "ocena": 5.0,
+    "liczbaOpinii": 144,
+    "limitMiejsc": 24,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Kapsztad i najciekawsze miejsca regionu podczas 10-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "10 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/kapsztad-i-garden-route.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/kapsztad-travel"
+  },
+  {
+    "id": 18,
+    "slug": "kenia-sawanna-i-ocean",
+    "nazwa": "Kenia: sawanna i ocean",
+    "kraj": "Kenia",
+    "miasto": "Nairobi",
+    "kontynent": "Afryka",
+    "kategoria": "Natura",
+    "czasDni": 10,
+    "cenaPLN": 9990,
+    "ocena": 4.5,
+    "liczbaOpinii": 151,
+    "limitMiejsc": 8,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Nairobi i najciekawsze miejsca regionu podczas 10-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "10 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/kenia-sawanna-i-ocean.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/nairobi-travel"
+  },
+  {
+    "id": 19,
+    "slug": "japonia-tradycja-i-neon",
+    "nazwa": "Japonia: tradycja i neon",
+    "kraj": "Japonia",
+    "miasto": "Tokio",
+    "kontynent": "Azja",
+    "kategoria": "Kultura",
+    "czasDni": 12,
+    "cenaPLN": 11990,
+    "ocena": 4.6,
+    "liczbaOpinii": 158,
+    "limitMiejsc": 10,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Tokio i najciekawsze miejsca regionu podczas 12-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "12 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 11,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 12,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/japonia-tradycja-i-neon.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/tokio-travel"
+  },
+  {
+    "id": 20,
+    "slug": "swiatynie-i-ogrody-kioto",
+    "nazwa": "Świątynie i ogrody Kioto",
+    "kraj": "Japonia",
+    "miasto": "Kioto",
+    "kontynent": "Azja",
+    "kategoria": "Kultura",
+    "czasDni": 8,
+    "cenaPLN": 8590,
+    "ocena": 4.7,
+    "liczbaOpinii": 165,
+    "limitMiejsc": 12,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Kioto i najciekawsze miejsca regionu podczas 8-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "8 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/swiatynie-i-ogrody-kioto.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/kioto-travel"
+  },
+  {
+    "id": 21,
+    "slug": "tajlandia-od-bangkoku-po-wyspy",
+    "nazwa": "Tajlandia od Bangkoku po wyspy",
+    "kraj": "Tajlandia",
+    "miasto": "Bangkok",
+    "kontynent": "Azja",
+    "kategoria": "Przygoda",
+    "czasDni": 12,
+    "cenaPLN": 7990,
+    "ocena": 4.8,
+    "liczbaOpinii": 172,
+    "limitMiejsc": 14,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Bangkok i najciekawsze miejsca regionu podczas 12-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "12 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 11,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 12,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/tajlandia-od-bangkoku-po-wyspy.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/bangkok-travel"
+  },
+  {
+    "id": 22,
+    "slug": "wietnam-smaki-i-krajobrazy",
+    "nazwa": "Wietnam: smaki i krajobrazy",
+    "kraj": "Wietnam",
+    "miasto": "Hanoi",
+    "kontynent": "Azja",
+    "kategoria": "Kulinarna",
+    "czasDni": 11,
+    "cenaPLN": 7490,
+    "ocena": 4.9,
+    "liczbaOpinii": 179,
+    "limitMiejsc": 16,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Hanoi i najciekawsze miejsca regionu podczas 11-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "11 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 11,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/wietnam-smaki-i-krajobrazy.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/hanoi-travel"
+  },
+  {
+    "id": 23,
+    "slug": "bali-rytm-wyspy",
+    "nazwa": "Bali: rytm wyspy",
+    "kraj": "Indonezja",
+    "miasto": "Bali",
+    "kontynent": "Azja",
+    "kategoria": "Relaks",
+    "czasDni": 10,
+    "cenaPLN": 8290,
+    "ocena": 5.0,
+    "liczbaOpinii": 186,
+    "limitMiejsc": 18,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Bali i najciekawsze miejsca regionu podczas 10-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "10 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/bali-rytm-wyspy.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/bali-travel"
+  },
+  {
+    "id": 24,
+    "slug": "zloty-trojkat-indii",
+    "nazwa": "Złoty trójkąt Indii",
+    "kraj": "Indie",
+    "miasto": "Jaipur",
+    "kontynent": "Azja",
+    "kategoria": "Historia",
+    "czasDni": 9,
+    "cenaPLN": 6990,
+    "ocena": 4.5,
+    "liczbaOpinii": 193,
+    "limitMiejsc": 20,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Jaipur i najciekawsze miejsca regionu podczas 9-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "9 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/zloty-trojkat-indii.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/jaipur-travel"
+  },
+  {
+    "id": 25,
+    "slug": "himalaje-dla-odkrywcow",
+    "nazwa": "Himalaje dla odkrywców",
+    "kraj": "Nepal",
+    "miasto": "Pokhara",
+    "kontynent": "Azja",
+    "kategoria": "Aktywna",
+    "czasDni": 10,
+    "cenaPLN": 8990,
+    "ocena": 4.6,
+    "liczbaOpinii": 200,
+    "limitMiejsc": 22,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Pokhara i najciekawsze miejsca regionu podczas 10-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "10 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/himalaje-dla-odkrywcow.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/pokhara-travel"
+  },
+  {
+    "id": 26,
+    "slug": "dubaj-i-pustynne-horyzonty",
+    "nazwa": "Dubaj i pustynne horyzonty",
+    "kraj": "ZEA",
+    "miasto": "Dubaj",
+    "kontynent": "Azja",
+    "kategoria": "City break",
+    "czasDni": 6,
+    "cenaPLN": 5290,
+    "ocena": 4.7,
+    "liczbaOpinii": 207,
+    "limitMiejsc": 24,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Dubaj i najciekawsze miejsca regionu podczas 6-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "6 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/dubaj-i-pustynne-horyzonty.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/dubaj-travel"
+  },
+  {
+    "id": 27,
+    "slug": "nowy-jork-bez-pospiechu",
+    "nazwa": "Nowy Jork bez pośpiechu",
+    "kraj": "USA",
+    "miasto": "Nowy Jork",
+    "kontynent": "Ameryka Północna",
+    "kategoria": "City break",
+    "czasDni": 7,
+    "cenaPLN": 7990,
+    "ocena": 4.8,
+    "liczbaOpinii": 214,
+    "limitMiejsc": 8,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Nowy Jork i najciekawsze miejsca regionu podczas 7-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "7 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/nowy-jork-bez-pospiechu.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/nowy-jork-travel"
+  },
+  {
+    "id": 28,
+    "slug": "parki-narodowe-zachodu",
+    "nazwa": "Parki narodowe zachodu",
+    "kraj": "USA",
+    "miasto": "Arizona",
+    "kontynent": "Ameryka Północna",
+    "kategoria": "Natura",
+    "czasDni": 12,
+    "cenaPLN": 11990,
+    "ocena": 4.9,
+    "liczbaOpinii": 221,
+    "limitMiejsc": 10,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Arizona i najciekawsze miejsca regionu podczas 12-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "12 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 11,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 12,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/parki-narodowe-zachodu.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/arizona-travel"
+  },
+  {
+    "id": 29,
+    "slug": "kanada-gory-i-pacyfik",
+    "nazwa": "Kanada: góry i Pacyfik",
+    "kraj": "Kanada",
+    "miasto": "Vancouver",
+    "kontynent": "Ameryka Północna",
+    "kategoria": "Natura",
+    "czasDni": 10,
+    "cenaPLN": 10990,
+    "ocena": 5.0,
+    "liczbaOpinii": 228,
+    "limitMiejsc": 12,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Vancouver i najciekawsze miejsca regionu podczas 10-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "10 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/kanada-gory-i-pacyfik.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/vancouver-travel"
+  },
+  {
+    "id": 30,
+    "slug": "meksyk-cenoty-i-ruiny-majow",
+    "nazwa": "Meksyk: cenoty i ruiny Majów",
+    "kraj": "Meksyk",
+    "miasto": "Jukatan",
+    "kontynent": "Ameryka Północna",
+    "kategoria": "Historia",
+    "czasDni": 10,
+    "cenaPLN": 7990,
+    "ocena": 4.5,
+    "liczbaOpinii": 235,
+    "limitMiejsc": 14,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Jukatan i najciekawsze miejsca regionu podczas 10-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "10 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/meksyk-cenoty-i-ruiny-majow.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/jukatan-travel"
+  },
+  {
+    "id": 31,
+    "slug": "peru-i-tajemnice-andow",
+    "nazwa": "Peru i tajemnice Andów",
+    "kraj": "Peru",
+    "miasto": "Cusco",
+    "kontynent": "Ameryka Południowa",
+    "kategoria": "Przygoda",
+    "czasDni": 11,
+    "cenaPLN": 10990,
+    "ocena": 4.6,
+    "liczbaOpinii": 242,
+    "limitMiejsc": 16,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Cusco i najciekawsze miejsca regionu podczas 11-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "11 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 11,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/peru-i-tajemnice-andow.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/cusco-travel"
+  },
+  {
+    "id": 32,
+    "slug": "rio-i-zielone-wybrzeze",
+    "nazwa": "Rio i zielone wybrzeże",
+    "kraj": "Brazylia",
+    "miasto": "Rio de Janeiro",
+    "kontynent": "Ameryka Południowa",
+    "kategoria": "Relaks",
+    "czasDni": 9,
+    "cenaPLN": 8990,
+    "ocena": 4.7,
+    "liczbaOpinii": 249,
+    "limitMiejsc": 18,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Rio de Janeiro i najciekawsze miejsca regionu podczas 9-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "9 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/rio-i-zielone-wybrzeze.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/rio-de-janeiro-travel"
+  },
+  {
+    "id": 33,
+    "slug": "patagonia-na-krancu-swiata",
+    "nazwa": "Patagonia na krańcu świata",
+    "kraj": "Argentyna",
+    "miasto": "Patagonia",
+    "kontynent": "Ameryka Południowa",
+    "kategoria": "Aktywna",
+    "czasDni": 12,
+    "cenaPLN": 12990,
+    "ocena": 4.8,
+    "liczbaOpinii": 256,
+    "limitMiejsc": 20,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Patagonia i najciekawsze miejsca regionu podczas 12-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "12 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 11,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 12,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/patagonia-na-krancu-swiata.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/patagonia-travel"
+  },
+  {
+    "id": 34,
+    "slug": "atakama-pod-gwiazdami",
+    "nazwa": "Atakama pod gwiazdami",
+    "kraj": "Chile",
+    "miasto": "Atakama",
+    "kontynent": "Ameryka Południowa",
+    "kategoria": "Natura",
+    "czasDni": 9,
+    "cenaPLN": 9990,
+    "ocena": 4.9,
+    "liczbaOpinii": 263,
+    "limitMiejsc": 22,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Atakama i najciekawsze miejsca regionu podczas 9-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "9 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/atakama-pod-gwiazdami.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/atakama-travel"
+  },
+  {
+    "id": 35,
+    "slug": "australia-od-miasta-do-rafy",
+    "nazwa": "Australia: od miasta do rafy",
+    "kraj": "Australia",
+    "miasto": "Sydney",
+    "kontynent": "Oceania",
+    "kategoria": "Przygoda",
+    "czasDni": 13,
+    "cenaPLN": 13990,
+    "ocena": 5.0,
+    "liczbaOpinii": 270,
+    "limitMiejsc": 24,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Sydney i najciekawsze miejsca regionu podczas 13-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "13 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 11,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 12,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 13,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/australia-od-miasta-do-rafy.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/sydney-travel"
+  },
+  {
+    "id": 36,
+    "slug": "nowa-zelandia-filmowych-krajobrazow",
+    "nazwa": "Nowa Zelandia filmowych krajobrazów",
+    "kraj": "Nowa Zelandia",
+    "miasto": "Queenstown",
+    "kontynent": "Oceania",
+    "kategoria": "Aktywna",
+    "czasDni": 12,
+    "cenaPLN": 14990,
+    "ocena": 4.5,
+    "liczbaOpinii": 277,
+    "limitMiejsc": 8,
+    "terminy": ["2027-04-12", "2027-06-14", "2027-09-06"],
+    "opis": "Odkryj Queenstown i najciekawsze miejsca regionu podczas 12-dniowej wyprawy w małej grupie. Lokalny przewodnik, czas na samodzielne odkrywanie i starannie zaplanowana trasa.",
+    "skroconyOpis": "12 dni odkrywania miejsca, lokalnej kultury i niezapomnianych widoków.",
+    "zawiera": ["noclegi", "opieka pilota", "program zwiedzania"],
+    "nieZawiera": ["transport do miejsca rozpoczęcia", "wydatki osobiste"],
+    "plan": [
+      {
+        "dzien": 1,
+        "tytul": "Przyjazd i poznanie grupy",
+        "opis": "Zakwaterowanie i spacer zapoznawczy."
+      },
+      {
+        "dzien": 2,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 3,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 4,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 5,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 6,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 7,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 8,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 9,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 10,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 11,
+        "tytul": "Odkrywanie regionu",
+        "opis": "Zwiedzanie, lokalne doświadczenia i czas wolny."
+      },
+      {
+        "dzien": 12,
+        "tytul": "Pożegnanie i powrót",
+        "opis": "Śniadanie, wymeldowanie i zakończenie wycieczki."
+      }
+    ],
+    "zdjecie": "/wycieczki/images/nowa-zelandia-filmowych-krajobrazow.svg",
+    "fotografiaInspiracja": "https://unsplash.com/s/photos/queenstown-travel"
+  }
+]
