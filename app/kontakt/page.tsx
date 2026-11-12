@@ -19,13 +19,13 @@ export default function ContactPage() {
       id: 2,
       question: "Czy mogę anulować rezerwację?",
       answer:
-        "Możliwość anulowania oraz ewentualne koszty zależą od warunków konkretnej oferty. Szczegóły powinny być dostępne przed potwierdzeniem rezerwacji.",
+        "Tak. Otwórz szczegóły wyjazdu w zakładce Moje rezerwacje i wybierz Anuluj rezerwację. Anulowanie w wersji demonstracyjnej jest bezpłatne.",
     },
     {
       id: 3,
       question: "Czy mogę zmienić termin wycieczki?",
       answer:
-        "Możesz przesłać prośbę o zmianę terminu przez formularz kontaktowy. Możliwość zmiany zależy od dostępności miejsc i warunków rezerwacji.",
+        "Aby wybrać inny termin w wersji demonstracyjnej, anuluj bieżącą rezerwację i zarezerwuj wycieczkę ponownie.",
     },
     {
       id: 4,
@@ -177,7 +177,7 @@ export default function ContactPage() {
                   >
                     Zapoznałem się z{" "}
                     <Link
-                      href="/polityka-prywatnosci"
+                      href="/polityka-prywatności"
                       target="_blank"
                       rel="noreferrer"
                       className="text-blue-600 underline"

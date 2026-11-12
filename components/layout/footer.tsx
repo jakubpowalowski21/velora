@@ -25,7 +25,7 @@ export default function Footer() {
             {/* Sekcja 1 */}
             <div className="flex-1">
               <Image
-                src="logo-white.svg"
+                src="/logo-white.svg"
                 alt="Logo"
                 width={120}
                 height={40}

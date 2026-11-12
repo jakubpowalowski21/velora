@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { Suspense } from "react";
 
 import type { Tour } from "@/types/tour";
 import toursData from "@/data/wycieczki.json";
@@ -41,7 +42,15 @@ export function generateStaticParams() {
   }));
 }
 
-export default async function TourPage({ params }: TourPageProps) {
+export default function TourPage({ params }: TourPageProps) {
+  return (
+    <Suspense fallback={<main className="mx-auto w-full max-w-7xl flex-1 px-6 py-12" role="status">Ładowanie wycieczki…</main>}>
+      <TourDetails params={params} />
+    </Suspense>
+  );
+}
+
+async function TourDetails({ params }: TourPageProps) {
   const { slug } = await params;
 
   const tour = tours.find((item) => item.slug === slug);
@@ -293,16 +302,15 @@ export default async function TourPage({ params }: TourPageProps) {
               ))}
             </div>
 
-            <button
-              type="button"
-              disabled
-              className="mt-6 w-full rounded-lg bg-blue-950 px-5 py-3 font-semibold text-white transition disabled:cursor-not-allowed disabled:opacity-60"
+            <Link
+              href={"/panel/rezerwacja/" + tour.slug}
+              className="mt-6 block w-full rounded-lg bg-blue-950 px-5 py-3 text-center font-semibold text-white transition hover:bg-blue-800"
             >
               Zarezerwuj wycieczkę
-            </button>
+            </Link>
 
             <p className="mt-3 text-center text-xs text-gray-500">
-              System rezerwacji uruchomimy w kolejnym etapie.
+              Rezerwacja i płatność w trybie demonstracyjnym.
             </p>
           </div>
 

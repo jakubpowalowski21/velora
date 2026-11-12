@@ -29,8 +29,13 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Panel demonstracyjny
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Panel wymaga Node.js 22.13 lub nowszego. Po uruchomieniu aplikacji otwórz
+`/panel`, załóż konto na fikcyjne dane i wybierz wycieczkę z katalogu.
+Płatność można potwierdzić lub odrzucić w symulatorze.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Aplikacja tworzy lokalną bazę SQLite w `.velora/panel.sqlite`. Przy wdrożeniu
+ustaw opcjonalne `VELORA_DB_PATH` na plik na trwałym dysku zapisywalnym przez
+serwer Node.js. Używaj HTTPS w trybie produkcyjnym, ponieważ plik cookie sesji
+ma wtedy atrybut Secure.

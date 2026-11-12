@@ -2,12 +2,10 @@
 
 import { useState } from "react";
 import TourCard from "@/components/tours/tourCard";
-import { useFavorites } from "@/hooks/useFavorites";
 import type { Tour } from "@/types/tour";
 
 export default function Best({ tours }: { tours: Tour[] }) {
   const [activeIndex, setActiveIndex] = useState(0);
-  const { isFavorite, toggleFavorite, isLoaded } = useFavorites();
 
   if (tours.length === 0) return null;
 
@@ -37,12 +35,7 @@ export default function Best({ tours }: { tours: Tour[] }) {
           key={tour.id}
           className={index === activeIndex ? "block" : "hidden lg:block"}
         >
-          <TourCard
-            tour={tour}
-            isFavorite={isFavorite(tour.id)}
-            onToggleFavorite={() => toggleFavorite(tour.id)}
-            favoritesLoaded={isLoaded}
-          />
+          <TourCard tour={tour} />
         </div>
       ))}
 

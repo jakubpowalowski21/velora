@@ -4,7 +4,6 @@ import { useState, useEffect } from "react";
 import { useRouter, usePathname, useSearchParams } from "next/navigation";
 import type { Tour } from "@/types/tour";
 import TourCard from "./tourCard";
-import { useFavorites } from "@/hooks/useFavorites";
 
 type FilterTourProps = {
   tour: Tour[];
@@ -12,7 +11,6 @@ type FilterTourProps = {
 
 export default function FilterTour({ tour }: FilterTourProps) {
   const [isOpenMobileFilters, setIsOpenMobileFilters] = useState(false);
-  const { isFavorite, toggleFavorite, isLoaded } = useFavorites();
 
   const router = useRouter();
   const pathname = usePathname();
@@ -460,13 +458,7 @@ export default function FilterTour({ tour }: FilterTourProps) {
         {/* Sekcja kart wycieczek z rozciągnięciem kart oraz zdjęć wewnątrz na 100% szerokości */}
         <section className="mt-6 grid min-w-0 grid-cols-1 gap-6 md:grid-cols-2">
           {paginatedTours.map((tour) => (
-            <TourCard
-              key={tour.id}
-              tour={tour}
-              isFavorite={isFavorite(tour.id)}
-              onToggleFavorite={() => toggleFavorite(tour.id)}
-              favoritesLoaded={isLoaded}
-            />
+            <TourCard key={tour.id} tour={tour} />
           ))}
         </section>
 

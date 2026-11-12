@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "rzym-poza-glownymi-placami",
+    "tytul": "Rzym poza głównymi placami",
+    "kategoria": "Miasta",
+    "zajawka": "Trzy pomysły na spokojniejszy dzień w mieście, w którym łatwo zaplanować za dużo.",
+    "wycieczkaSlug": "rzymskie-dolce-vita",
+    "sekcje": [
+      { "tytul": "Poranek w Testaccio", "tekst": "Zacznij od kawy przy barze, a potem przejdź między stoiskami targowiska w Testaccio. Zamiast szukać z góry konkretnej restauracji, wybierz składnik, którego jeszcze nie próbowałeś. Latem może to być dojrzała figa, a zimą pieczony karczoch." },
+      { "tytul": "Popołudnie na Awentynie", "tekst": "Z Testaccio wejdź na Awentyn i zaplanuj dłuższy postój w ogrodzie pomarańczowym. W drodze nad Tyber poszukaj cienia i usiądź na kilka minut. Jeden spokojny spacer zostawia więcej miejsca na przypadkowe odkrycia niż cały dzień między rezerwacjami." }
+    ]
+  },
+  {
+    "slug": "toskania-od-miasteczka-do-miasteczka",
+    "tytul": "Toskania od miasteczka do miasteczka",
+    "kategoria": "Kultura i smaki",
+    "zajawka": "Krótka trasa przez dolinę Val d’Orcia, z czasem na lokalny ser i kamienne uliczki.",
+    "wycieczkaSlug": "winnice-i-miasteczka-toskanii",
+    "sekcje": [
+      { "tytul": "Dwa przystanki wystarczą", "tekst": "Wybierz na jeden dzień Pienzę i San Quirico d’Orcia. W Pienzy połącz spacer przy murach z degustacją pecorino, a w San Quirico odpocznij w geometrycznych ogrodach Horti Leonini. Do centrum obu miasteczek najwygodniej wejść pieszo." },
+      { "tytul": "Zatrzymaj się z widokiem", "tekst": "Na drogach doliny najlepsze widoki często pojawiają się między miejscowościami. Wypatruj wyznaczonych zatoczek i parkingów. Gdy masz już dobry punkt obserwacyjny, daj sobie chwilę na przyjrzenie się polom i cieniom przemieszczającym się po stokach." }
+    ]
+  },
+  {
+    "slug": "lizbona-od-rzeki-do-punktow-widokowych",
+    "tytul": "Lizbona od rzeki do punktów widokowych",
+    "kategoria": "Miasta",
+    "zajawka": "Spacer od nabrzeża Tagu do Alfamy, który warto rozłożyć na kilka krótkich odcinków.",
+    "wycieczkaSlug": "lizbona-i-wybrzeze-atlantyku",
+    "sekcje": [
+      { "tytul": "Przy wodzie", "tekst": "Od Praça do Comércio rusz w stronę Cais do Sodré. Płaski odcinek nad Tagiem daje dobry początek dnia, zwłaszcza przed wejściem na lizbońskie wzgórza. Zwróć uwagę na różnicę między ruchem przy przystani a spokojniejszymi ławkami nad rzeką." },
+      { "tytul": "W górę przez Alfamę", "tekst": "Wybierz kilka uliczek prowadzących do okolic Santa Luzia. Na stromych odcinkach idź powoli, a po deszczu uważaj na wypolerowany bruk. Jeśli na tarasie jest tłoczno, boczna uliczka często daje szansę na spokojny postój z równie ciekawym widokiem." }
+    ]
+  },
+  {
+    "slug": "islandia-jeden-dzien-na-poludniu",
+    "tytul": "Islandia. Jeden dzień na południowym wybrzeżu",
+    "kategoria": "Przyroda",
+    "zajawka": "Jak wybrać kilka przystanków na trasie wśród wodospadów i czarnych plaż.",
+    "wycieczkaSlug": "islandia-ogien-i-lod",
+    "sekcje": [
+      { "tytul": "Wodospad z bliska", "tekst": "Przy Skógafoss poświęć czas na obserwowanie, jak zmienia się mgła nad wodą. Nawet jeśli nie planujesz iść daleko, przyda się warstwa przeciwdeszczowa. Z góry zdecyduj, ile czasu chcesz spędzić w terenie, żeby zostawić zapas na drogę powrotną." },
+      { "tytul": "Widok na czarny piasek", "tekst": "Ciemne plaże okolic Vík najlepiej oglądać z bezpiecznej odległości od wody, zgodnie z oznaczeniami na miejscu. Silny wiatr i deszcz zmieniają charakter wybrzeża w kilka minut. Warto mieć drugi plan, na przykład dłuższą przerwę w miasteczku." }
+    ]
+  },
+  {
+    "slug": "kioto-w-rytmie-ogrodow",
+    "tytul": "Kioto w rytmie ogrodów",
+    "kategoria": "Kultura i smaki",
+    "zajawka": "Plan na dzień, w którym dziedzińce i zielone ścieżki są równie ważne jak świątynie.",
+    "wycieczkaSlug": "swiatynie-i-ogrody-kioto",
+    "sekcje": [
+      { "tytul": "Wybierz jeden ogród na poranek", "tekst": "W ogrodzie skalnym Ryoan-ji najlepiej po prostu usiąść i obserwować kompozycję z jednego miejsca. Spróbuj zwrócić uwagę na ślady grabienia żwiru, rozłożenie kamieni i przestrzeń między nimi. Taki postój zmienia tempo całego dnia." },
+      { "tytul": "Przejdź się wzdłuż kanału", "tekst": "Na Ścieżce Filozofów można spacerować także poza okresem kwitnienia wiśni. Wybierz krótki odcinek, po drodze zajrzyj do bocznej uliczki i zaplanuj przerwę na herbatę. Przy wejściu do świątyni sprawdź zasady dotyczące zdjęć." }
+    ]
+  },
+  {
+    "slug": "barcelona-mozaiki-i-lokalne-place",
+    "tytul": "Barcelona między mozaiką a lokalnym placem",
+    "kategoria": "Miasta",
+    "zajawka": "Trasa dla osób, które chcą połączyć architekturę Gaudíego ze zwykłym dniem w dzielnicy Gràcia.",
+    "wycieczkaSlug": "barcelona-pelna-sztuki",
+    "sekcje": [
+      { "tytul": "Zwróć uwagę na detale", "tekst": "W Parku Güell spójrz z bliska na fragmenty ceramiki w mozaice. Różnią się grubością, rysunkiem i sposobem, w jaki odbijają światło. Wybierz kilka detali, które chcesz zapamiętać, zamiast próbować sfotografować każdy zakątek." },
+      { "tytul": "Odpocznij na placu w Gràcii", "tekst": "Po spacerze zejdź w stronę Plaça de la Virreina. W okolicy można kupić coś do jedzenia i usiąść na krótką przerwę. To dobry punkt, z którego można wrócić do zatłoczonego centrum albo przedłużyć popołudnie na mniejszych ulicach dzielnicy." }
+    ]
+  },
+  {
+    "slug": "kreta-stol-pelen-sezonowych-smakow",
+    "tytul": "Kreta i stół pełen sezonowych smaków",
+    "kategoria": "Kultura i smaki",
+    "zajawka": "Co zamówić do dzielenia i czego szukać na lokalnym targu.",
+    "wycieczkaSlug": "kreta-od-kuchni",
+    "sekcje": [
+      { "tytul": "Zacznij od dakos", "tekst": "Kruche suchary jęczmienne, pomidor, oliwa i ser to dobry punkt wyjścia do wspólnego posiłku. Jeśli jesteście w kilka osób, dobierzcie do tego niewielkie porcje warzyw, past i pieczonych dań, które można podawać na środek stołu." },
+      { "tytul": "Sprawdź, co jest na targu", "tekst": "Na targu wypatruj ziół, zielonych liści, oliwek i owoców, które akurat dominują na stoiskach. Zamiast kompletować długą listę zakupów, wybierz kilka produktów do prostego pikniku. Dobry chleb, pomidory i ser wystarczą na lunch po spacerze." }
+    ]
+  },
+  {
+    "slug": "paryz-po-obu-stronach-kanalu",
+    "tytul": "Paryż po obu stronach kanału",
+    "kategoria": "Miasta",
+    "zajawka": "Popołudnie nad Canal Saint-Martin z księgarniami, mostkami i przerwą przy wodzie.",
+    "wycieczkaSlug": "paryz-poza-pocztowka",
+    "sekcje": [
+      { "tytul": "Zacznij w okolicy République", "tekst": "Od placu République jest blisko do południowego odcinka kanału. Po drodze kup pieczywo albo ciastko i wybierz miejsce, z którego widać kładkę. Obserwowanie ruchu nad wodą dobrze zastępuje kolejny punkt na liście zwiedzania." },
+      { "tytul": "Zmieniaj brzegi", "tekst": "Nie musisz przejść całej trasy jedną stroną. Przejdź na drugi brzeg jednym z mostków i zajrzyj w boczną ulicę. Zarezerwuj czas na małą księgarnię lub kawiarnię, szczególnie jeśli planujesz spacer w deszczowy dzień." }
+    ]
+  },
+  {
+    "slug": "lofoty-dzien-zmieniajacego-sie-swiatla",
+    "tytul": "Lofoty i dzień zmieniającego się światła",
+    "kategoria": "Przyroda",
+    "zajawka": "Pomysł na obserwowanie gór, portów i zatok bez pośpiechu między punktami widokowymi.",
+    "wycieczkaSlug": "lofoty-pod-polnocnym-niebem",
+    "sekcje": [
+      { "tytul": "Zatrzymaj się dłużej w porcie", "tekst": "Zamiast odwiedzać kilka wiosek rybackich jedna po drugiej, wybierz jeden port i przejdź wzdłuż nabrzeża. Odbicia kolorowych domów, strome zbocza i zmieniające się zachmurzenie dają różne widoki z tego samego miejsca." },
+      { "tytul": "Zostaw miejsce na zmianę planu", "tekst": "Traktuj długie przejazdy jako osobną część dnia. Krótki spacer przy zatoce może zastąpić trasę na wzniesienie, kiedy wiatr się nasili. Nieco luźniejszy plan ułatwia też powrót do miejsca, które wcześniej zniknęło w chmurach." }
+    ]
+  },
+  {
+    "slug": "stambul-przeprawa-przez-bosfor",
+    "tytul": "Stambuł z pokładu promu",
+    "kategoria": "Miasta",
+    "zajawka": "Jak wykorzystać przeprawę przez Bosfor, żeby zobaczyć miasto z obu stron cieśniny.",
+    "wycieczkaSlug": "stambul-dwoch-kontynentow",
+    "sekcje": [
+      { "tytul": "Wypłyń z europejskiego brzegu", "tekst": "Zaplanuj prom w kierunku azjatyckiej części miasta. Jeśli pogoda sprzyja, znajdź miejsce z widokiem na linię nabrzeża. Z tej perspektywy dobrze widać, jak meczety, mosty i terminale układają się w panoramę." },
+      { "tytul": "Zostań na lunch w Kadıköy", "tekst": "Z portu łatwo przejść w stronę uliczek targowych Kadıköy. Poszukaj stoiska z pieczywem i miejsca, gdzie można usiąść na herbatę. Powrót zaplanuj z zapasem, żeby nie podporządkować spaceru godzinie jednego rejsu." }
+    ]
+  },
+  {
+    "slug": "maroko-pierwsze-kroki-w-medynie",
+    "tytul": "Maroko. Pierwsze kroki w medynie",
+    "kategoria": "Kultura i smaki",
+    "zajawka": "Prosty sposób na poznawanie labiryntu uliczek i warsztatów bez ciągłego sprawdzania mapy.",
+    "wycieczkaSlug": "marokanskie-medyny-i-pustynia",
+    "sekcje": [
+      { "tytul": "Ustal jeden punkt powrotu", "tekst": "Wybierz bramę lub wyraźny plac i zapamiętaj drogę od niego do miejsca noclegu. W zatłoczonych przejściach łatwiej orientować się za pomocą charakterystycznych szyldów i zakrętów niż na podstawie podobnie wyglądających uliczek." },
+      { "tytul": "Zajrzyj do warsztatu", "tekst": "Na stoiskach przyglądaj się materiałom i temu, jak powstają przedmioty. Jeśli chcesz zrobić zdjęcie rzemieślnikowi, najpierw zapytaj. Krótka rozmowa o ceramice albo barwieniu skóry potrafi nadać spacerowi więcej sensu niż szybkie zakupy." }
+    ]
+  },
+  {
+    "slug": "tanzania-obserwacja-sawanny",
+    "tytul": "Tanzania. Jak obserwować sawannę",
+    "kategoria": "Przyroda",
+    "zajawka": "Kilka nawyków, dzięki którym podczas safari łatwiej dostrzec więcej szczegółów.",
+    "wycieczkaSlug": "safari-w-tanzanii",
+    "sekcje": [
+      { "tytul": "Przesuwaj wzrok warstwami", "tekst": "Najpierw obejrzyj to, co jest blisko drogi, potem trawy i zarośla, a na końcu horyzont. Zamiast wypatrywać tylko dużych zwierząt, szukaj ruchu i zmian koloru. Prosta lornetka ułatwia rozpoznanie szczegółów bez podchodzenia bliżej." },
+      { "tytul": "Posłuchaj przewodnika", "tekst": "Zapytaj przewodnika o ślady na ziemi, zachowanie ptaków lub sposób, w jaki stado korzysta z cienia. Taki kontekst jest często ciekawszy od samego zdjęcia. Zostań w pojeździe, jeśli przewodnik nie wskazał wyznaczonego miejsca na postój." }
+    ]
+  },
+  {
+    "slug": "kapsztad-miedzy-miastem-a-oceanem",
+    "tytul": "Kapsztad między miastem a oceanem",
+    "kategoria": "Miasta",
+    "zajawka": "Dwa różne spojrzenia na miasto położone pod Górą Stołową.",
+    "wycieczkaSlug": "kapsztad-i-garden-route",
+    "sekcje": [
+      { "tytul": "Poranek blisko nabrzeża", "tekst": "Na początek wybierz krótki spacer w okolicach Waterfront. Widać stąd zarówno działające nabrzeże, jak i wzniesienia w tle. Jeśli na szczytach stoją chmury, włącz do planu więcej czasu w mieście." },
+      { "tytul": "Popołudnie przy promenadzie", "tekst": "W Sea Point możesz przejść tylko fragment nadmorskiej promenady i nadal zobaczyć zupełnie inny Kapsztad. Zatrzymaj się przy jednym punkcie z widokiem na fale. Zabierz warstwę na wiatr, nawet jeśli rano było słonecznie." }
+    ]
+  },
+  {
+    "slug": "wietnam-sniadanie-na-ulicy",
+    "tytul": "Wietnam. Śniadanie na ulicy",
+    "kategoria": "Kultura i smaki",
+    "zajawka": "Od miski phở do kawy z mlekiem skondensowanym podczas porannego spaceru.",
+    "wycieczkaSlug": "wietnam-smaki-i-krajobrazy",
+    "sekcje": [
+      { "tytul": "Usiądź przy małym stoliku", "tekst": "Zacznij od stoiska, które rano ma stały ruch. Do miski phở można dostać osobno zioła, cytrusy i chili. Dodawaj je stopniowo, zaczynając od spróbowania samego bulionu, żeby poczuć, jak zmienia się smak." },
+      { "tytul": "Daj kawie czas", "tekst": "Kawa parzona w filtrze phin ścieka powoli, więc to dobra okazja, żeby odpocząć i obserwować ulicę. Jeśli wybierzesz wersję z mlekiem skondensowanym, wymieszaj ją po zaparzeniu. Z lodem sprawdza się na cieplejsze poranki." }
+    ]
+  },
+  {
+    "slug": "bali-spacer-wsrod-tarasow-ryzowych",
+    "tytul": "Bali. Spacer wśród tarasów ryżowych",
+    "kategoria": "Przyroda",
+    "zajawka": "Jak zaplanować krótki spacer po krajobrazie, który ciągle jest miejscem pracy.",
+    "wycieczkaSlug": "bali-rytm-wyspy",
+    "sekcje": [
+      { "tytul": "Wyrusz wcześnie", "tekst": "Poranek jest dobrym momentem na krótki spacer, zanim słońce mocno nagrzeje otwarte zbocza. Wybierz wyznaczoną ścieżkę, zabierz wodę i buty z bieżnikiem. Mokre fragmenty grobli bywają śliskie po nocnym deszczu." },
+      { "tytul": "Spójrz na przepływ wody", "tekst": "Przyjrzyj się kanałom nawadniającym i różnicy poziomów między kolejnymi polami. W zależności od etapu uprawy zobaczysz lustro wody, jasne sadzonki lub dojrzałe rośliny. Daj pierwszeństwo osobom pracującym na trasie." }
+    ]
+  },
+  {
+    "slug": "nowy-jork-jeden-dzien-na-brooklynie",
+    "tytul": "Nowy Jork. Jeden dzień na Brooklynie",
+    "kategoria": "Miasta",
+    "zajawka": "Widok na Manhattan, odpoczynek nad wodą i ulice, które warto przemierzyć pieszo.",
+    "wycieczkaSlug": "nowy-jork-bez-pospiechu",
+    "sekcje": [
+      { "tytul": "Zejdź do Brooklyn Bridge Park", "tekst": "Zamiast zatrzymać się wyłącznie na moście, zejdź do parku przy East River. Przejdź kawałek wzdłuż wody i zobacz, jak zmienia się widok na Manhattan między kolejnymi pirsami. Na przerwę wybierz ławkę oddaloną od głównych wejść." },
+      { "tytul": "Wejdź między szeregowce", "tekst": "Z nabrzeża przejdź w stronę Brooklyn Heights i przyjrzyj się detalom przy wejściach do kamienic. Po drodze można znaleźć niewielki sklep spożywczy lub piekarnię na lunch. Powrót metrem z innej stacji pozwala zakończyć spacer bez cofania się tą samą trasą." }
+    ]
+  },
+  {
+    "slug": "peru-pierwszy-dzien-w-cusco",
+    "tytul": "Peru. Pierwszy spokojny dzień w Cusco",
+    "kategoria": "Kultura i smaki",
+    "zajawka": "Łagodny plan zwiedzania z targiem, niewielkim placem i czasem na odpoczynek.",
+    "wycieczkaSlug": "peru-i-tajemnice-andow",
+    "sekcje": [
+      { "tytul": "Zostań w centrum", "tekst": "Pierwszego dnia wybierz kilka blisko położonych ulic i placów. Na targu San Pedro obejrzyj stoiska z owocami, ziarnem i pieczywem. Jeśli przed południem zrobi się tłoczno, wróć na spokojniejszą ulicę lub zrób dłuższą przerwę." },
+      { "tytul": "Zostaw podejścia na kolejny dzień", "tekst": "Ulice Cusco potrafią szybko zmienić się w strome schody. Wybierz widok z niższej części miasta i nie planuj wielu odległych punktów zaraz po przyjeździe. Przy dłuższym pobycie łatwiej rozłożyć zwiedzanie i wrócić do miejsc, które Cię zaciekawiły." }
+    ]
+  },
+  {
+    "slug": "patagonia-krotkie-spacery-z-widokiem",
+    "tytul": "Patagonia. Krótkie spacery z widokiem",
+    "kategoria": "Przyroda",
+    "zajawka": "Dlaczego jezioro i krótsza ścieżka mogą wypełnić cały dzień w górach.",
+    "wycieczkaSlug": "patagonia-na-krancu-swiata",
+    "sekcje": [
+      { "tytul": "Wybierz dojście nad wodę", "tekst": "Zacznij od punktu blisko jeziora, gdzie widać zbocza i dolinę, ale łatwo wrócić przed pogorszeniem pogody. Sprawdź lokalne oznaczenia i wybierz trasę pasującą do warunków danego dnia." },
+      { "tytul": "Obserwuj pogodę z jednego miejsca", "tekst": "W Patagonii chmury i wiatr mocno wpływają na krajobraz. Jeśli znajdziesz osłonięte miejsce, poczekaj kilka minut i zobacz, jak z kolejnej warstwy chmur wyłania się pasmo. Przy krótkiej trasie łatwiej pozwolić sobie na taki postój." }
+    ]
+  },
+  {
+    "slug": "atakama-zachod-slonca-i-gwiazdy",
+    "tytul": "Atakama od zachodu słońca do gwiazd",
+    "kategoria": "Przyroda",
+    "zajawka": "Plan na późne popołudnie, gdy pustynne formacje stopniowo zmieniają kolor.",
+    "wycieczkaSlug": "atakama-pod-gwiazdami",
+    "sekcje": [
+      { "tytul": "Obserwuj nie tylko horyzont", "tekst": "Kiedy słońce obniża się nad pustynią, spójrz też w przeciwną stronę. Cienie na grzbietach i przy wyschniętych zagłębieniach pokazują kształt terenu wyraźniej niż w południe. Trzymaj się wyznaczonych punktów widokowych." },
+      { "tytul": "Przygotuj się na chłód po zmroku", "tekst": "Na wieczór zabierz ciepłą warstwę, wodę i latarkę. Jeśli celem jest oglądanie gwiazd, zaplanuj noc z mniejszą ilością światła księżyca. Po zgaszeniu ekranu telefonu daj oczom kilka minut na przyzwyczajenie się do ciemności." }
+    ]
+  },
+  {
+    "slug": "nowa-zelandia-od-jeziora-do-gor",
+    "tytul": "Nowa Zelandia od jeziora do gór",
+    "kategoria": "Przyroda",
+    "zajawka": "Dzień na Wyspie Południowej z krótkim spacerem i przerwami na obserwację krajobrazu.",
+    "wycieczkaSlug": "nowa-zelandia-filmowych-krajobrazow",
+    "sekcje": [
+      { "tytul": "Zacznij nad jeziorem", "tekst": "Przy spokojnej pogodzie przystań nad wodą i popatrz na odbicia gór. Nawet krótki spacer wzdłuż brzegu daje kilka różnych perspektyw. Jeśli jedziesz w stronę kolejnej miejscowości, zostaw czas na jeden dodatkowy postój w wyznaczonej zatoce." },
+      { "tytul": "Dopasuj spacer do widoczności", "tekst": "Przy niskich chmurach wybierz ścieżkę w dolinie lub w lesie. Gdy się rozpogodzi, wróć na otwarty odcinek i zobacz, jak zmienił się krajobraz. Krótsza pętla pozwala obserwować tę zmianę bez konieczności długiego marszu powrotnego." }
+    ]
+  }
+]

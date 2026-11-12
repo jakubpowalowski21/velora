@@ -1,20 +1,37 @@
+"use client";
+
+import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import type { Tour } from "@/types/tour";
+import { usePanel } from "@/components/panel/panel-provider";
+import { loginPath } from "@/lib/panel";
 
-type TourCardProps = {
-  tour: Tour;
-  isFavorite: boolean;
-  onToggleFavorite: () => void;
-  favoritesLoaded: boolean;
-};
+export default function TourCard({ tour }: { tour: Tour }) {
+  const { data, loadError, mutate } = usePanel();
+  const router = useRouter();
+  const [saving, setSaving] = useState(false);
+  const [error, setError] = useState("");
+  const isFavorite = data?.favorites.includes(tour.id) ?? false;
 
-export default function TourCard({
-  tour,
-  isFavorite,
-  onToggleFavorite,
-  favoritesLoaded,
-}: TourCardProps) {
+  async function toggleFavorite() {
+    const returnPath = window.location.pathname + window.location.search + window.location.hash;
+    if (!data?.account) {
+      router.push(loginPath(returnPath));
+      return;
+    }
+    setError("");
+    setSaving(true);
+    try {
+      await mutate({ action: "favorite", tourId: tour.id, saved: !isFavorite });
+    } catch (error) {
+      setError(error instanceof Error ? error.message : "Nie udało się zapisać ulubionych.");
+    } finally {
+      setSaving(false);
+    }
+  }
+
   return (
     <article className="min-w-0 w-full overflow-hidden rounded-2xl border shadow-xl">
       <div className="relative">
@@ -28,8 +45,8 @@ export default function TourCard({
 
         <button
           type="button"
-          onClick={onToggleFavorite}
-          disabled={!favoritesLoaded}
+          onClick={toggleFavorite}
+          disabled={(!data && !loadError) || saving}
           aria-label={
             isFavorite
               ? `Usuń ${tour.nazwa} z ulubionych`
@@ -67,6 +84,8 @@ export default function TourCard({
         <p className="mt-2 text-sm text-gray-600">
           {tour.czasDni} dni · {tour.kategoria}
         </p>
+
+        {error && <p role="alert" className="mt-3 text-sm text-red-700">{error}</p>}
 
         <div className="mt-5 flex flex-wrap items-end justify-between gap-3 border-t border-gray-100 pt-4">
           <div>
